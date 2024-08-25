@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayhanne
-- 👀 I’m interested in computational neuroscience and deep learning.
+- 👀 I’m interested in developmental learning and cognitive neuroscience.
 - 🌱 I’m currently learning cognitive robotics.
 - 📫 How to reach me --> sayhannee@gmail.com
 
